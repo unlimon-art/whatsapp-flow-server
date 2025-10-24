@@ -1,0 +1,1154 @@
+{
+  "Aguascalientes": [
+    {
+      "id": "Auto_Distribuidores_del_Centro_jeep",
+      "title": "Auto Distribuidores del Centro, S.A. de C.V."
+    },
+    {
+      "id": "Auto_Distribuidores_del_Centro_dodge",
+      "title": "Auto Distribuidores del Centro, S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_CGE_Aguascalientes_Sur_jeep",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_CGE_Aguascalientes_Sur_dodge",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    }
+  ],
+  "Baja California": [
+    {
+      "id": "Autoproductos_Tijuana_Via_Rapida_jeep",
+      "title": "Auto Productos de la Costa, S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Ensenada_jeep",
+      "title": "Auto Productos de la Costa (Suc. Ensenada), S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Ensenada_dodge",
+      "title": "Auto Productos de la Costa (Suc. Ensenada), S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Mexicali_jeep",
+      "title": "Auto Productos Baja, S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Mexicali_dodge",
+      "title": "Auto Productos Baja, S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Tijuana_jeep",
+      "title": "Auto Productos de la Costa, S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Tijuana_dodge",
+      "title": "Auto Productos de la Costa, S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Tecate_jeep",
+      "title": "Auto Productos de la Costa, S.A. de C.V."
+    },
+    {
+      "id": "Autoproductos_Tecate_dodge",
+      "title": "Auto Productos de la Costa, S.A. de C.V."
+    },
+    {
+      "id": "Tersa_Stellantis_dodge",
+      "title": "Revor Automotriz S.A. De C.V."
+    }
+  ],
+  "Baja California Sur": [
+    {
+      "id": "Nueva_Automotriz_del_Toro_La_Paz_jeep",
+      "title": "Nueva Automotriz del Toro, S.A. de C.V."
+    },
+    {
+      "id": "Nueva_Automotriz_del_Toro_La_Paz_dodge",
+      "title": "Nueva Automotriz del Toro, S.A. de C.V."
+    },
+    {
+      "id": "Nueva_Automotriz_del_Toro_Los_Cabos_jeep",
+      "title": "Nueva Automotriz del Toro (Suc. Los Cabos), S.A. de C.V."
+    },
+    {
+      "id": "Nueva_Automotriz_del_Toro_Los_Cabos_dodge",
+      "title": "Nueva Automotriz del Toro (Suc. Los Cabos), S.A. de C.V."
+    }
+  ],
+  "Campeche": [
+    {
+      "id": "Prestigio_Motriz_Cd_del_Carmen_jeep",
+      "title": "Prestigio Motriz SAPI (Suc Cd del Carmen)"
+    },
+    {
+      "id": "Prestigio_Motriz_Cd_del_Carmen_dodge",
+      "title": "Prestigio Motriz SAPI (Suc Cd del Carmen)"
+    },
+    {
+      "id": "Prestigio_Motriz_Campeche_jeep",
+      "title": "Prestigio Motriz SAPI, de C.V."
+    },
+    {
+      "id": "Prestigio_Motriz_Campeche_dodge",
+      "title": "Prestigio Motriz SAPI, de C.V."
+    }
+  ],
+  "Chiapas": [
+    {
+      "id": "Grumarmex_Autos_jeep",
+      "title": "Tapachula-Grumarmex Autos"
+    },
+    {
+      "id": "Grumarmex_Autos_dodge",
+      "title": "Tapachula-Grumarmex Autos"
+    },
+    {
+      "id": "Gema_Premier_jeep",
+      "title": "Gema Premier, S.A. de C.V."
+    },
+    {
+      "id": "Gema_Premier_dodge",
+      "title": "Gema Premier, S.A. de C.V."
+    }
+  ],
+  "Chihuahua": [
+    {
+      "id": "Stellantis_Cleber_Chihuahua_jeep",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Chihuahua_dodge",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Touche_Motors_jeep",
+      "title": "Touché Motors, S.A. de C.V."
+    },
+    {
+      "id": "Touche_Motors_dodge",
+      "title": "Touché Motors, S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Delicias_jeep",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Delicias_dodge",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Cuauhtemoc_jeep",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Cuauhtemoc_dodge",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Parral_jeep",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Parral_dodge",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Nuevo_Casas_Grandes_jeep",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Cleber_Nuevo_Casas_Grandes_dodge",
+      "title": "Autocamiones de Chihuahua  S.A. de C.V."
+    }
+  ],
+  "Ciudad de México y Zona M": [
+    {
+      "id": "Guillermo_Prieto_y_Cia_jeep",
+      "title": "Guillermo Prieto y Cia, S.A. de C.V."
+    },
+    {
+      "id": "Jeep_Autoangar_Tlalpan_jeep",
+      "title": "Andrade Tlalpan, S.A. de C.V."
+    },
+    {
+      "id": "Jeep_Anzures_jeep",
+      "title": "BC Desértica Motors S.A. de C.V."
+    },
+    {
+      "id": "Autoangar_Ermita_jeep",
+      "title": "Autoangar Ermita, S.A. de C.V."
+    },
+    {
+      "id": "Autoangar_Ermita_dodge",
+      "title": "Autoangar Ermita, S.A. de C.V."
+    },
+    {
+      "id": "Autoangar_Tepepan_dodge",
+      "title": "Autoangar Tepepan"
+    },
+    {
+      "id": "Autokasa_Viaducto_jeep",
+      "title": "Autokasa Viaducto, S.A. de C.V."
+    },
+    {
+      "id": "Autokasa_Viaducto_dodge",
+      "title": "Autokasa Viaducto, S.A. de C.V."
+    },
+    {
+      "id": "Automotores_de_Mexico_jeep",
+      "title": "Automotores de México, S.A. de C.V."
+    },
+    {
+      "id": "Automotores_de_Mexico_dodge",
+      "title": "Automotores de México, S.A. de C.V."
+    },
+    {
+      "id": "Automundo_jeep",
+      "title": "Automundo, S.A. de C.V."
+    },
+    {
+      "id": "Automundo_dodge",
+      "title": "Automundo, S.A. de C.V."
+    },
+    {
+      "id": "Autopolanco_jeep",
+      "title": "Autopolanco, S.A. DE C.V."
+    },
+    {
+      "id": "Autopolanco_dodge",
+      "title": "Autopolanco, S.A. DE C.V."
+    },
+    {
+      "id": "Soni_Pedregal_jeep",
+      "title": "Automotores Soni, S.A. de C.V."
+    },
+    {
+      "id": "Soni_Pedregal_dodge",
+      "title": "Automotores Soni, S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_la_Villa_jeep",
+      "title": "BC DESERTICA MOTORS"
+    },
+    {
+      "id": "Stellantis_la_Villa_dodge",
+      "title": "BC DESERTICA MOTORS"
+    },
+    {
+      "id": "Stellantis_Anzures_dodge",
+      "title": "BC DESERTICA MOTORS S.A. DE C.V."
+    },
+    {
+      "id": "Stellantis_Santa_Fe_dodge",
+      "title": "Euro Surman S.A. de C.V."
+    },
+    {
+      "id": "Picacho_Tlahuac_dodge",
+      "title": "Picacho Grupo Automotriz S.A. De C.V."
+    }
+  ],
+  "Coahuila": [
+    {
+      "id": "Automotriz_de_Sabinas_jeep",
+      "title": "Automotriz de Sabinas, S.A. de C.V."
+    },
+    {
+      "id": "Automotriz_de_Sabinas_dodge",
+      "title": "Automotriz de Sabinas, S.A. de C.V."
+    },
+    {
+      "id": "Autolasa_jeep",
+      "title": "Automotriz Lagunera, S.A. de C.V."
+    },
+    {
+      "id": "Autolasa_dodge",
+      "title": "Automotriz Lagunera, S.A. de C.V."
+    },
+    {
+      "id": "Autos_del_Norte_jeep",
+      "title": "Autos del Norte, S.A. de C. V."
+    },
+    {
+      "id": "Autos_del_Norte_dodge",
+      "title": "Autos del Norte, S.A. de C. V."
+    },
+    {
+      "id": "Autos_Monclova_jeep",
+      "title": "Autos Monclova, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Monclova_dodge",
+      "title": "Autos Monclova, S.A. de C.V."
+    },
+    {
+      "id": "Coahuila_Motors_jeep",
+      "title": "Coahuila Motors"
+    },
+    {
+      "id": "Coahuila_Motors_dodge",
+      "title": "Coahuila Motors"
+    },
+    {
+      "id": "Misol_Automotriz_Torreon_jeep",
+      "title": "Misol Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Misol_Automotriz_Torreon_dodge",
+      "title": "Misol Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Dodge_Fiat_Peugeot_Grupo_PASA_dodge",
+      "title": "Cambrev Automotriz S.A. De C.V"
+    }
+  ],
+  "Colima": [
+    {
+      "id": "Motormexa_Manzanillo_jeep",
+      "title": "Grupo Motormexa Colima (Suc. Manzanillo)"
+    },
+    {
+      "id": "Motormexa_Manzanillo_dodge",
+      "title": "Grupo Motormexa Colima (Suc. Manzanillo)"
+    },
+    {
+      "id": "Motormexa_Colima_jeep",
+      "title": "Grupo Motormexa Colima, S.A. de C.V."
+    },
+    {
+      "id": "Motormexa_Colima_dodge",
+      "title": "Grupo Motormexa Colima, S.A. de C.V."
+    }
+  ],
+  "Durango": [
+    {
+      "id": "Automotriz_de_Durango_jeep",
+      "title": "Automotriz de Durango, S.A. de C.V."
+    },
+    {
+      "id": "Automotriz_de_Durango_dodge",
+      "title": "Automotriz de Durango, S.A. de C.V."
+    },
+    {
+      "id": "Misol_Automotriz_Gomez_Palacio_dodge",
+      "title": "Misol Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "CAASA_Surman_jeep",
+      "title": "Lyon Motors S.A. De C.V."
+    },
+    {
+      "id": "CAASA_Surman_dodge",
+      "title": "Lyon Motors S.A. De C.V."
+    }
+  ],
+  "Estado de México": [
+    {
+      "id": "Automotriz_Campa_jeep",
+      "title": "Automotriz Campa, S.A. de C.V."
+    },
+    {
+      "id": "Automotriz_Campa_dodge",
+      "title": "Automotriz Campa, S.A. de C.V."
+    },
+    {
+      "id": "Continental_Automotriz_Metepec_jeep",
+      "title": "Continental Automotriz, S.A. de C. V."
+    },
+    {
+      "id": "Continental_Automotriz_Metepec_dodge",
+      "title": "Continental Automotriz, S.A. de C. V."
+    },
+    {
+      "id": "Continental_Automotriz_Lerma_jeep",
+      "title": "Continental Automotriz (Suc. Lerma), S.A. de C. V."
+    },
+    {
+      "id": "Continental_Automotriz_Lerma_dodge",
+      "title": "Continental Automotriz (Suc. Lerma), S.A. de C. V."
+    },
+    {
+      "id": "Texcoco_Motors_jeep",
+      "title": "D.F Automotriz, Chrysler Texcoco"
+    },
+    {
+      "id": "Texcoco_Motors_dodge",
+      "title": "D.F Automotriz, Chrysler Texcoco"
+    },
+    {
+      "id": "Automundo_Interlomas_jeep",
+      "title": "Interlomas Mundo Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Automundo_Interlomas_dodge",
+      "title": "Interlomas Mundo Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Kasa_Automotriz_Satelite_jeep",
+      "title": "Kasa Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Kasa_Automotriz_Satelite_dodge",
+      "title": "Kasa Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Kasa_Coacalco_jeep",
+      "title": "Kasa Coacalco"
+    },
+    {
+      "id": "Kasa_Coacalco_dodge",
+      "title": "Kasa Coacalco"
+    },
+    {
+      "id": "Kasa_Naucalpan_jeep",
+      "title": "Kasa Naucalpan, S.A. de C.V."
+    },
+    {
+      "id": "Kasa_Naucalpan_dodge",
+      "title": "Kasa Naucalpan, S.A. de C.V."
+    },
+    {
+      "id": "Vehiculos_de_Tlalnepantla_jeep",
+      "title": "Vehículos de Tlalnepantla, S.A. de C.V."
+    },
+    {
+      "id": "Vehiculos_de_Tlalnepantla_dodge",
+      "title": "Vehículos de Tlalnepantla, S.A. de C.V."
+    },
+    {
+      "id": "Eurovalle_Ecatepec_jeep",
+      "title": "Eurovalle, S.A. De C.V."
+    },
+    {
+      "id": "Eurovalle_Ecatepec_dodge",
+      "title": "Eurovalle, S.A. De C.V."
+    }
+  ],
+  "Guanajuato": [
+    {
+      "id": "Auto_Centro_de_Celaya_San_Miguel_jeep",
+      "title": "Auto Centro de Celaya (Suc. San Miguel de Allende), S.A. de C.V."
+    },
+    {
+      "id": "Auto_Centro_de_Celaya_San_Miguel_dodge",
+      "title": "Auto Centro de Celaya (Suc. San Miguel de Allende), S.A. de C.V."
+    },
+    {
+      "id": "Autobacsa_jeep",
+      "title": "Automóviles del Bajío Campestre, S.A. de C.V."
+    },
+    {
+      "id": "Autobacsa_dodge",
+      "title": "Automóviles del Bajío Campestre, S.A. de C.V."
+    },
+    {
+      "id": "Automotores_de_Guanajuato_jeep",
+      "title": "Automotores de León"
+    },
+    {
+      "id": "Automotores_de_Guanajuato_dodge",
+      "title": "Automotores de León"
+    },
+    {
+      "id": "Automotores_de_Leon_jeep",
+      "title": "Automotores de León, S.A. de C.V."
+    },
+    {
+      "id": "Automotores_de_Leon_dodge",
+      "title": "Automotores de León, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Finos_de_Irapuato_jeep",
+      "title": "Autos Finos de Irapuato, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Finos_de_Irapuato_dodge",
+      "title": "Autos Finos de Irapuato, S.A. de C.V."
+    },
+    {
+      "id": "Auto_Centro_de_Celaya_jeep",
+      "title": "Auto Centro de Celaya, S.A. de C.V."
+    },
+    {
+      "id": "Auto_Centro_de_Celaya_dodge",
+      "title": "Auto Centro de Celaya, S.A. de C.V."
+    }
+  ],
+  "Guerrero": [
+    {
+      "id": "Distribuidora_de_Acapulco_Chilpancingo_jeep",
+      "title": "Distribuidora de Acapulco S.A de C.V."
+    },
+    {
+      "id": "Distribuidora_de_Acapulco_Chilpancingo_dodge",
+      "title": "Distribuidora de Acapulco S.A de C.V."
+    },
+    {
+      "id": "Distribuidora_de_Acapulco_jeep",
+      "title": "Distribuidora de Acapulco, S.A. de C.V."
+    },
+    {
+      "id": "Distribuidora_de_Acapulco_dodge",
+      "title": "Distribuidora de Acapulco, S.A. de C.V."
+    }
+  ],
+  "Hidalgo": [
+    {
+      "id": "Autos_Elegantes_de_Pachuca_jeep",
+      "title": "Autos Elegantes de Pachuca, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Elegantes_de_Pachuca_dodge",
+      "title": "Autos Elegantes de Pachuca, S.A. de C.V."
+    }
+  ],
+  "Jalisco": [
+    {
+      "id": "Jeep_Galojal_jeep",
+      "title": "Galojal S. De R.L. De C.V."
+    },
+    {
+      "id": "Jeep_Country_Motormexa_jeep",
+      "title": "Grupo Motormexa Guadalajara, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Flosol_Ocotlan_jeep",
+      "title": "Automotores Flosol, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Flosol_Ocotlan_dodge",
+      "title": "Automotores Flosol, S.A. de C.V."
+    },
+    {
+      "id": "Camarena_Automotriz_de_Occidente_dodge",
+      "title": "Camarena Automotriz de Occidente, S.A. de C.V."
+    },
+    {
+      "id": "Camarena_Automotriz_Tepatitlan_jeep",
+      "title": "Camarena Automotriz de Occidente (Suc. Tepatitlan), S.A. de C.V."
+    },
+    {
+      "id": "Camarena_Automotriz_Tepatitlan_dodge",
+      "title": "Camarena Automotriz de Occidente (Suc. Tepatitlan), S.A. de C.V."
+    },
+    {
+      "id": "Camarena_Automotriz_Las_Fuentes_jeep",
+      "title": "Camarena Automotriz de Occidente ( Suc. López Mateos)"
+    },
+    {
+      "id": "Camarena_Automotriz_Las_Fuentes_dodge",
+      "title": "Camarena Automotriz de Occidente ( Suc. López Mateos)"
+    },
+    {
+      "id": "Motormexa_Cd_Guzman_jeep",
+      "title": "Motormexa Ciudad Guzman"
+    },
+    {
+      "id": "Motormexa_Cd_Guzman_dodge",
+      "title": "Motormexa Ciudad Guzman"
+    },
+    {
+      "id": "Stellantis_Motormexa_Guadalajara_jeep",
+      "title": "Grupo Motormexa Guadalajara, S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Motormexa_Guadalajara_dodge",
+      "title": "Grupo Motormexa Guadalajara, S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Motormexa_Acueducto_dodge",
+      "title": "Grupo Motormexa Guadalajara ( Suc. Acueducto)"
+    },
+    {
+      "id": "Roca_Automotriz_Guadalajara_jeep",
+      "title": "Roca Automotriz Guadalajara, Roca Automotriz Vallarta"
+    },
+    {
+      "id": "Roca_Automotriz_Guadalajara_dodge",
+      "title": "Roca Automotriz Guadalajara, Roca Automotriz Vallarta"
+    },
+    {
+      "id": "Flosol_Peugeot_FIAT_Dodge_Vallarta_dodge",
+      "title": "Automotores Flosol, S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Santa_Anita_jeep",
+      "title": "Vehículos Europeos De Guadalajara S.A. De C.V."
+    },
+    {
+      "id": "Stellantis_Santa_Anita_dodge",
+      "title": "Vehículos Europeos De Guadalajara S.A. De C.V."
+    },
+    {
+      "id": "Stellantis_Country_dodge",
+      "title": "Galojal S. De R.L. De C.V."
+    },
+    {
+      "id": "Camarena_Automotriz_Guadalajara_jeep",
+      "title": "Camarena Automotriz de Occidente S.A. de C.V."
+    },
+    {
+      "id": "Camarena_Automotriz_Guadalajara_dodge",
+      "title": "Camarena Automotriz de Occidente S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_CGE_Lagos_de_Moreno_jeep",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_CGE_Lagos_de_Moreno_dodge",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    }
+  ],
+  "Michoacán": [
+    {
+      "id": "Autos_Flosol_Zamora_jeep",
+      "title": "Automotores Flosol, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Flosol_Zamora_dodge",
+      "title": "Automotores Flosol, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Flosol_La_Piedad_jeep",
+      "title": "Automotores Flosol, S.A. de C.V."
+    },
+    {
+      "id": "Autos_Flosol_La_Piedad_dodge",
+      "title": "Automotores Flosol, S.A. de C.V."
+    },
+    {
+      "id": "Fame_Automotriz_Medina_jeep",
+      "title": "Fame Automotriz, Medina Automotriz de Uruapan"
+    },
+    {
+      "id": "Fame_Automotriz_Medina_dodge",
+      "title": "Fame Automotriz, Medina Automotriz de Uruapan"
+    },
+    {
+      "id": "Michoacan_Motors_jeep",
+      "title": "Michoacán Motors, S.A. de C.V."
+    },
+    {
+      "id": "Michoacan_Motors_dodge",
+      "title": "Michoacán Motors, S.A. de C.V."
+    },
+    {
+      "id": "Michoacan_Motors_Zitacuaro_jeep",
+      "title": "Michoacán Motors (Suc. Zitácuaro), S.A de C.V."
+    },
+    {
+      "id": "Michoacan_Motors_Zitacuaro_dodge",
+      "title": "Michoacán Motors (Suc. Zitácuaro), S.A de C.V."
+    },
+    {
+      "id": "Sol_de_Michoacan_jeep",
+      "title": "Autos y Camiones Sol de Michoacán (Suc. Morelia) , S.A. de C.V."
+    },
+    {
+      "id": "Sol_de_Michoacan_dodge",
+      "title": "Autos y Camiones Sol de Michoacán (Suc. Morelia) , S.A. de C.V."
+    },
+    {
+      "id": "Sol_de_Michoacan_Lazaro_Cardenas_jeep",
+      "title": "Autos y Camiones Sol de Michoacán (Suc. Lázaro Cárdenas)"
+    },
+    {
+      "id": "Sol_de_Michoacan_Lazaro_Cardenas_dodge",
+      "title": "Autos y Camiones Sol de Michoacán (Suc. Lázaro Cárdenas)"
+    }
+  ],
+  "Morelos": [
+    {
+      "id": "Jeep_Rio_Mayo_jeep",
+      "title": "Cuernavaca Automotriz (Suc. Rio Mayo)"
+    },
+    {
+      "id": "Cuernavaca_Automotriz_Cuautla_dodge",
+      "title": "Cuernavaca Automotriz (Suc. Cuautla), S.A. de C.V."
+    },
+    {
+      "id": "Cuernavaca_Automotriz_jeep",
+      "title": "Cuernavaca Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Cuernavaca_Automotriz_dodge",
+      "title": "Cuernavaca Automotriz, S.A. de C.V."
+    }
+  ],
+  "Nayarit": [
+    {
+      "id": "Alica_Automotriz_jeep",
+      "title": "Alica Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Alica_Automotriz_dodge",
+      "title": "Alica Automotriz, S.A. de C.V."
+    }
+  ],
+  "Nuevo León": [
+    {
+      "id": "Automoviles_y_Camiones_Barragan_jeep",
+      "title": "Automóviles y Camiones (Suc. Barragán), SA de CV"
+    },
+    {
+      "id": "Automoviles_y_Camiones_Universidad_jeep",
+      "title": "Automóviles y Camiones, S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_y_Camiones_Universidad_dodge",
+      "title": "Automóviles y Camiones, S.A. de C.V."
+    },
+    {
+      "id": "Car_One_Santa_Lucia_jeep",
+      "title": "Car One Monterrey (Suc. Santa Lucia), S.A. de C.V."
+    },
+    {
+      "id": "Car_One_Santa_Lucia_dodge",
+      "title": "Car One Monterrey (Suc. Santa Lucia), S.A. de C.V."
+    },
+    {
+      "id": "Car_One_Contry_jeep",
+      "title": "Car One Monterrey S.A. de C.V."
+    },
+    {
+      "id": "Car_One_Contry_dodge",
+      "title": "Car One Monterrey S.A. de C.V."
+    },
+    {
+      "id": "Mirador_Automotriz_jeep",
+      "title": "Mirador Automotriz"
+    },
+    {
+      "id": "Mirador_Automotriz_dodge",
+      "title": "Mirador Automotriz"
+    },
+    {
+      "id": "Refran_Autos_Monterrey_jeep",
+      "title": "Refran Autos (Suc. Monterrey)"
+    },
+    {
+      "id": "Refran_Autos_Monterrey_dodge",
+      "title": "Refran Autos (Suc. Monterrey)"
+    },
+    {
+      "id": "Surman_Cumbres_jeep",
+      "title": "Eurosurman Tec S.A. De C.V."
+    },
+    {
+      "id": "Surman_Cumbres_dodge",
+      "title": "Eurosurman Tec S.A. De C.V."
+    },
+    {
+      "id": "Refran_Autos_San_Nicolas_dodge",
+      "title": "Refran Autos  S. de R.L. de C.V."
+    }
+  ],
+  "Oaxaca": [
+    {
+      "id": "Automotores_Antequera_jeep",
+      "title": "Automotores Antequera, S.A. de C.V."
+    },
+    {
+      "id": "Automotores_Antequera_dodge",
+      "title": "Automotores Antequera, S.A. de C.V."
+    },
+    {
+      "id": "Diez_Tuxtepec_jeep",
+      "title": "Diez Córdoba (Suc Tuxtepec), Diez Córdoba S.A. de C.V."
+    },
+    {
+      "id": "Diez_Tuxtepec_dodge",
+      "title": "Diez Córdoba (Suc Tuxtepec), Diez Córdoba S.A. de C.V."
+    }
+  ],
+  "Puebla": [
+    {
+      "id": "Reyes_Huerta_Reforma_jeep",
+      "title": "Grupo Stella de Puebla"
+    },
+    {
+      "id": "Reyes_Huerta_Reforma_dodge",
+      "title": "Grupo Stella de Puebla"
+    },
+    {
+      "id": "Diez_Tehuacan_jeep",
+      "title": "Diez Orizaba (Suc Tehuacan), S.A. de C.V."
+    },
+    {
+      "id": "Diez_Tehuacan_dodge",
+      "title": "Diez Orizaba (Suc Tehuacan), S.A. de C.V."
+    },
+    {
+      "id": "Puebla_Automotriz_jeep",
+      "title": "Puebla Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Puebla_Automotriz_dodge",
+      "title": "Puebla Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Stella_los_Fuertes_jeep",
+      "title": "Puebla Automotriz los Fuertes"
+    },
+    {
+      "id": "Stella_los_Fuertes_dodge",
+      "title": "Puebla Automotriz los Fuertes"
+    },
+    {
+      "id": "Reyes_Huerta_Dorada_jeep",
+      "title": "Reyes Huerta Dorada"
+    },
+    {
+      "id": "Reyes_Huerta_Dorada_dodge",
+      "title": "Reyes Huerta Dorada"
+    },
+    {
+      "id": "Sabalo_de_Xalapa_Suc_Teziutlan_jeep",
+      "title": "Sábalo de Xalapa, S.A. de C.V."
+    },
+    {
+      "id": "Sabalo_de_Xalapa_Suc_Teziutlan_dodge",
+      "title": "Sábalo de Xalapa, S.A. de C.V."
+    },
+    {
+      "id": "Stella_Puebla_jeep",
+      "title": "Grupo Stella de Puebla"
+    },
+    {
+      "id": "Stella_Puebla_dodge",
+      "title": "Grupo Stella de Puebla"
+    }
+  ],
+  "Querétaro": [
+    {
+      "id": "Fame_Queretaro_jeep",
+      "title": "Fame Automotriz, Fame Queretaro"
+    },
+    {
+      "id": "Pro_Snop_de_Queretaro_jeep",
+      "title": "Automóviles Pro Snop de Querétaro, S.A de C.V."
+    },
+    {
+      "id": "Pro_Snop_de_San_Juan_jeep",
+      "title": "Automóviles Pro Snop de Querétaro, S.A de C.V. (Suc. San Juan)"
+    },
+    {
+      "id": "Eurostar_Queretaro_dodge",
+      "title": "Eurostar Bajío S.A. de C.V."
+    }
+  ],
+  "Quintana Roo": [
+    {
+      "id": "Automotriz_Caribe_jeep",
+      "title": "Automotriz Caribe Cancún, S.A. de C.V."
+    },
+    {
+      "id": "Automotriz_Caribe_dodge",
+      "title": "Automotriz Caribe Cancún, S.A. de C.V."
+    },
+    {
+      "id": "Automotriz_Caribe_Suc_Playa_del_Carmen_dodge",
+      "title": "Automotriz Caribe (Suc. Playa del Carmen), S.A. de C.V."
+    },
+    {
+      "id": "Chetumal_Automotores_jeep",
+      "title": "Chetumal Automotores, S.A. de C.V."
+    },
+    {
+      "id": "Chetumal_Automotores_dodge",
+      "title": "Chetumal Automotores, S.A. de C.V."
+    },
+    {
+      "id": "Dodge_Fiat_Peugeot_Meridien_Cancun_dodge",
+      "title": "Meridien S.A. De C.V."
+    }
+  ],
+  "San Luis Potosí": [
+    {
+      "id": "VAPSA_San_Luis_Potosi_jeep",
+      "title": "Ecobike, S.A. de C.V."
+    },
+    {
+      "id": "VAPSA_San_Luis_Potosi_dodge",
+      "title": "Ecobike, S.A. de C.V."
+    },
+    {
+      "id": "VAPSA_Suc_Matehuala_jeep",
+      "title": "Ecobike, S.A. de C.V."
+    },
+    {
+      "id": "VAPSA_Suc_Matehuala_dodge",
+      "title": "Ecobike, S.A. de C.V."
+    },
+    {
+      "id": "VAPSA_Suc_Rioverde_jeep",
+      "title": "Ecobike, S.A. de C.V."
+    },
+    {
+      "id": "VAPSA_Suc_Rioverde_dodge",
+      "title": "Ecobike, S.A. de C.V."
+    },
+    {
+      "id": "Stellantis_Herrera_San_Luis_jeep",
+      "title": "Eurofrance Autos S.A. De C.V."
+    },
+    {
+      "id": "Stellantis_Herrera_San_Luis_dodge",
+      "title": "Eurofrance Autos S.A. De C.V."
+    }
+  ],
+  "Sinaloa": [
+    {
+      "id": "Autocountry_El_Caballito_jeep",
+      "title": "Rivas Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Palmas_Automotriz_Mazatlan_jeep",
+      "title": "Palmas Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Palmas_Automotriz_Mazatlan_dodge",
+      "title": "Palmas Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Autocountry_Los_Mochis_jeep",
+      "title": "Premier Autocountry (Suc. Mochis), S.A. de C.V."
+    },
+    {
+      "id": "Autocountry_Los_Mochis_dodge",
+      "title": "Premier Autocountry (Suc. Mochis), S.A. de C.V."
+    },
+    {
+      "id": "Autocountry_Culiacan_jeep",
+      "title": "Premier Autocountry, S.A. de C.V."
+    },
+    {
+      "id": "Autocountry_Culiacan_dodge",
+      "title": "Premier Autocountry, S.A. de C.V."
+    },
+    {
+      "id": "Torres_Automotriz_jeep",
+      "title": "Torres Automotriz, S.A. de C.V."
+    },
+    {
+      "id": "Torres_Automotriz_dodge",
+      "title": "Torres Automotriz, S.A. de C.V."
+    }
+  ],
+  "Sonora": [
+    {
+      "id": "Automotriz_Sonorense_jeep",
+      "title": "Automotriz Sonorense, S.A. de C.V."
+    },
+    {
+      "id": "Automotriz_Sonorense_dodge",
+      "title": "Automotriz Sonorense, S.A. de C.V."
+    },
+    {
+      "id": "Caborca_Automotriz_jeep",
+      "title": "Caborca Automotriz, S.A. de C.V"
+    },
+    {
+      "id": "Caborca_Automotriz_dodge",
+      "title": "Caborca Automotriz, S.A. de C.V"
+    },
+    {
+      "id": "Caborca_Automotriz_Nogales_jeep",
+      "title": "Caborca Automotriz (Suc. Nogales)"
+    },
+    {
+      "id": "Caborca_Automotriz_Nogales_dodge",
+      "title": "Caborca Automotriz (Suc. Nogales)"
+    },
+    {
+      "id": "Gonzalez_R_Automotriz_Hermosillo_jeep",
+      "title": "González R. Automotriz"
+    },
+    {
+      "id": "Gonzalez_R_Automotriz_Hermosillo_dodge",
+      "title": "González R. Automotriz"
+    },
+    {
+      "id": "Gonzalez_R_Automotriz_Guaymas_jeep",
+      "title": "González R. Automotriz (Suc. Guaymas)"
+    },
+    {
+      "id": "Gonzalez_R_Automotriz_Guaymas_dodge",
+      "title": "González R. Automotriz (Suc. Guaymas)"
+    },
+    {
+      "id": "Autoproductos_San_Luis_Rio_Colorado_jeep",
+      "title": "Auto Productos Baja (Suc. San Luis Río Colorado)"
+    },
+    {
+      "id": "Autoproductos_San_Luis_Rio_Colorado_dodge",
+      "title": "Auto Productos Baja (Suc. San Luis Río Colorado)"
+    },
+    {
+      "id": "Automotriz_del_Noroeste_jeep",
+      "title": "Autos Y Tractores De Sinaloa S.A. De C.V."
+    },
+    {
+      "id": "Automotriz_del_Noroeste_dodge",
+      "title": "Autos Y Tractores De Sinaloa S.A. De C.V."
+    }
+  ],
+  "Tabasco": [
+    {
+      "id": "Prestigio_Tabasco_jeep",
+      "title": "Prestigio Motriz SA de CV"
+    },
+    {
+      "id": "Prestigio_Tabasco_dodge",
+      "title": "Prestigio Motriz SA de CV"
+    }
+  ],
+  "Tamaulipas": [
+    {
+      "id": "Automotriz_Tamaulipas_jeep",
+      "title": "Automotriz Tamaulipas, S.A. de C.V."
+    },
+    {
+      "id": "Automotriz_Tamaulipas_dodge",
+      "title": "Automotriz Tamaulipas, S.A. de C.V."
+    },
+    {
+      "id": "Refran_Autos_Nuevo_Laredo_jeep",
+      "title": "Refran Autos, S. de R.L de C.V"
+    },
+    {
+      "id": "Refran_Autos_Nuevo_Laredo_dodge",
+      "title": "Refran Autos, S. de R.L de C.V"
+    },
+    {
+      "id": "Megamotors_jeep",
+      "title": "Megamotors, S.A. de C.V."
+    },
+    {
+      "id": "Megamotors_dodge",
+      "title": "Megamotors, S.A. de C.V."
+    },
+    {
+      "id": "Megamotors_Matamoros_jeep",
+      "title": "Megamotors (Suc. Matamoros)"
+    },
+    {
+      "id": "Megamotors_Matamoros_dodge",
+      "title": "Megamotors (Suc. Matamoros)"
+    },
+    {
+      "id": "Refran_Autos_Reynosa_jeep",
+      "title": "Refran Autos (Suc. Reynosa)"
+    },
+    {
+      "id": "Refran_Autos_Reynosa_dodge",
+      "title": "Refran Autos (Suc. Reynosa)"
+    }
+  ],
+  "Tlaxcala": [
+    {
+      "id": "Stellantis_Tlaxcala_jeep",
+      "title": "Stella Automotriz S.A. De C.V."
+    },
+    {
+      "id": "Stellantis_Tlaxcala_dodge",
+      "title": "Stella Automotriz S.A. De C.V."
+    }
+  ],
+  "Veracruz": [
+    {
+      "id": "Comercial_Automotriz_de_Poza_Rica_jeep",
+      "title": "Comercial Automotriz de Poza Rica, S.A. de C.V."
+    },
+    {
+      "id": "Comercial_Automotriz_de_Poza_Rica_dodge",
+      "title": "Comercial Automotriz de Poza Rica, S.A. de C.V."
+    },
+    {
+      "id": "Comercial_Automotriz_Tuxpan_jeep",
+      "title": "Comercial Automotriz de Poza Rica (Suc. Chrysler Tuxpan)"
+    },
+    {
+      "id": "Comercial_Automotriz_Tuxpan_dodge",
+      "title": "Comercial Automotriz de Poza Rica (Suc. Chrysler Tuxpan)"
+    },
+    {
+      "id": "Diez_Cordoba_jeep",
+      "title": "Diez Córdoba, S.A. de C.V."
+    },
+    {
+      "id": "Diez_Cordoba_dodge",
+      "title": "Diez Córdoba, S.A. de C.V."
+    },
+    {
+      "id": "Diez_de_Coatzacoalcos_jeep",
+      "title": "Diez de Coatzacoalcos, S.A. de C.V."
+    },
+    {
+      "id": "Diez_de_Coatzacoalcos_dodge",
+      "title": "Diez de Coatzacoalcos, S.A. de C.V."
+    },
+    {
+      "id": "Diez_Veracruz_jeep",
+      "title": "Diez de Veracruz, S.A. de C.V."
+    },
+    {
+      "id": "Diez_Veracruz_dodge",
+      "title": "Diez de Veracruz, S.A. de C.V."
+    },
+    {
+      "id": "Diez_Minatitlan_jeep",
+      "title": "Diez de Coatzacoalcos (Suc. Minatitlán), Diez Coatzacoalcos S.A. de C.V."
+    },
+    {
+      "id": "Diez_Minatitlan_dodge",
+      "title": "Diez de Coatzacoalcos (Suc. Minatitlán), Diez Coatzacoalcos S.A. de C.V."
+    },
+    {
+      "id": "Diez_Orizaba_jeep",
+      "title": "Diez Orizaba, S.A. de C.V."
+    },
+    {
+      "id": "Diez_Orizaba_dodge",
+      "title": "Diez Orizaba, S.A. de C.V."
+    },
+    {
+      "id": "Sabalo_de_Xalapa_jeep",
+      "title": "Sábalo de Xalapa, S.A. de C.V."
+    },
+    {
+      "id": "Sabalo_de_Xalapa_dodge",
+      "title": "Sábalo de Xalapa, S.A. de C.V."
+    }
+  ],
+  "Yucatán": [
+    {
+      "id": "Automaya_Montejo_jeep",
+      "title": "Automaya (Suc. Montejo), S.A. de C.V."
+    },
+    {
+      "id": "Automaya_Montejo_dodge",
+      "title": "Automaya (Suc. Montejo), S.A. de C.V."
+    }
+  ],
+  "Zacatecas": [
+    {
+      "id": "Automoviles_CGE_Zacatecas_jeep",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_CGE_Zacatecas_dodge",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_CGE_Fresnillo_jeep",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    },
+    {
+      "id": "Automoviles_CGE_Fresnillo_dodge",
+      "title": "Automoviles CGE de Zacatecas, S.A. de C.V."
+    }
+  ]
+}

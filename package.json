@@ -1,0 +1,34 @@
+{
+  "name": "whatsapp-flow-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+```
+
+---
+
+## 📁 ARCHIVO 3: `distribuidores_por_estado.json`
+
+**Descarga este archivo de Claude:**
+
+[View distribuidores_por_estado.json](computer:///mnt/user-data/outputs/distribuidores_por_estado.json)
+
+Click derecho → "Guardar enlace como..." → Guárdalo en tu carpeta
+
+---
+
+### ✅ Al final tu carpeta debe tener:
+```
+whatsapp-flow-server/
+├── server.js (copia el código de arriba)
+├── package.json (copia el código de arriba)
+└── distribuidores_por_estado.json (descarga de Claude)
